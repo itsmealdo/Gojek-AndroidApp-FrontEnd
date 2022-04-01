@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/drawable/custom_box.xml" value="0.2755" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/drawable/custon_box_register.xml" value="0.2755" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/drawable/itemselector.xml" value="0.116" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/drawable/roundcorner.xml" value="0.19" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw320dp/activity_login.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw320dp/activity_welcome.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw460dp/activity_login.xml" value="0.445" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw460dp/activity_main.xml" value="0.27586206896551724" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw460dp/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw460dp/activity_welcome.xml" value="0.27586206896551724" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.1354523227383863" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.27586206896551724" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw600dp/activity_welcome.xml" value="0.27586206896551724" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw720dp/activity_login.xml" value="0.271875" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw720dp/activity_main.xml" value="0.271875" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-sw720dp/activity_welcome.xml" value="0.33" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.11914323962516733" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1390625" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/activity_otp.xml" value="0.33" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/activity_welcome.xml" value="0.33" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/fragment_chat.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/fragment_history.xml" value="0.21622846781504987" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/fragment_promo.xml" value="0.33" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/fragment_promo_fragment.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/fragment_riwayat.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/layout/welcome_screen.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/aldos/OneDrive/AndroidStudioProjects/Gojek_TugasApp4/app/src/main/res/menu/bottom_menu.xml" value="0.2975630611372381" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

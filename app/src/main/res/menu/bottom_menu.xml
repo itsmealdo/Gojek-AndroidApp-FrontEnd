@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Beranda"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/promo_fragment"
+        android:title="Promo"
+        android:icon="@drawable/ic_promo"/>
+    <item
+        android:id="@+id/riwayat"
+        android:title="Pesanan"
+        android:icon="@drawable/ic_pesanan"/>
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/ic_chat"/>
+</menu>
