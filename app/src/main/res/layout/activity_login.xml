@@ -60,8 +60,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/etNomorHP"
-        android:textColor="@color/dasar"
-        android:text="@string/ada_kendala_dengan_nomor_hp_mu"/>
+        android:text="@string/ada_kendala_dengan_nomor_hp_mu"
+        android:textColor="@color/dasar" />
 
     <android.widget.Button
         android:id="@+id/btnLanjut"

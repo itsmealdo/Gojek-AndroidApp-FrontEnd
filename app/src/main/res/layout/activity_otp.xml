@@ -14,8 +14,7 @@
         android:layout_height="14dp"
         android:layout_marginTop="15dp"
         android:layout_marginBottom="40dp"
-        android:background="@drawable/arrowleft">
-    </android.widget.Button>
+        android:background="@drawable/arrowleft"></android.widget.Button>
 
     <TextView
         android:id="@+id/tvOTPsend"
